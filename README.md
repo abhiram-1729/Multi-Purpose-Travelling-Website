@@ -68,19 +68,6 @@ You will be presented with the homepage, where users can browse through various 
 
 ---
 
-## Screenshots
-
-- **Home Page:** View the list of categories (restaurants, destinations, etc.)  
-  ![Home Page Screenshot](link_to_screenshot)
-
-- **Listing Page:** Detailed information with high-quality images, ratings, and status indicators  
-  ![Listing Page Screenshot](link_to_screenshot)
-
-- **User Reviews Section:** Section where users can leave reviews and rate the listings  
-  ![User Reviews Screenshot](link_to_screenshot)
-
----
-
 ## Contact
 
 For any questions or inquiries, feel free to reach out at:  
