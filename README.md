@@ -1,4 +1,4 @@
-# Multi-Purpose Travelling Website
+# Multi-Purpose Travelling Website (HTML/CSS & JavaScript)
 
 ## Multi-Purpose Travelling Website (Frontend)
 
